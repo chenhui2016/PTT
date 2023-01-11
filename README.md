@@ -1,2 +1,2 @@
 # PTT
-Once the paper is accepted, we will immediately publish the source code.
+We will release the source code soon.
